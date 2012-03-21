@@ -28,13 +28,13 @@ tags : [ recipes ]
 * 1 cup granulated sugar
 * 1/2 cup whaler vanille rum (Hawaiian-style rum)
 
-###Directions:Prep Time: 45 mins
+###Directions: Prep Time: 45 mins
 1. Total Time: 1 3/4 hrs
 1. Basic Cake Mix: In a large mixing bowl, combine basic cake mix ingredients.
 2. On low speed combine ingredients until the mix is the consistency of fine gravel, and all particles are about the same size.
 3. This mix may be contained and stored for up to 3 months in the refrigerator.
 
-###For the Cake:.
+###For the Cake:
 5. Preheat oven to 325 degrees.
 6. Spray a large Bundt pan (12 cup) with nonstick cooking spray.
 7. Sprinkle the chopped walnuts on the bottom.
