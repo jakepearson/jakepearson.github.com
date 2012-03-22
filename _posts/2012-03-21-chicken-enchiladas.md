@@ -8,36 +8,35 @@ tags: [entree]
 
 ###Ingredients
 ####Sauce
-1 tbsp olive oil
-16 Roma tomatoes, quartered
-1 medium onion, sliced
-6 cloves garlic, peeled
-2 tsp chili powder
-2 tsp ground cumin
-1/2 tsp salt
-1/4 tsp pepper
+* 1 tbsp olive oil
+* 16 Roma tomatoes, quartered
+* 1 medium onion, sliced
+* 6 cloves garlic, peeled
+* 2 tsp chili powder
+* 2 tsp ground cumin
+* 1/2 tsp salt
+* 1/4 tsp pepper
 
 ####Enchiladas
-1 tsp paprika
-1 tsp chili powder
-1 tsp ground cumin
-1 tsp olive oil
-4 boneless, skinless chicken breast halves (about 3 oz each), fat trimmed
-4 medium (about 6-inch) whole-wheat flour tortillas
-1/2 cup shredded cheddar
-1/2 cup diced green chile (Anaheim chile, fresh or canned)
+* 1 tsp paprika
+* 1 tsp chili powder
+* 1 tsp ground cumin
+* 1 tsp olive oil
+* 4 boneless, skinless chicken breast halves (about 3 oz each), fat trimmed
+* 4 medium (about 6-inch) whole-wheat flour tortillas
+* 1/2 cup shredded cheddar
+* 1/2 cup diced green chile (Anaheim chile, fresh or canned)
 
 ####Calabacitas
-1 tbsp plus 2 tsp canola oil
-1 small zucchini, sliced 1/2 inch thick in half-moon shapes
-1 small yellow squash, sliced 1/2 inch in half-moon shapes
-1 Roma tomato, diced
-1 small onion, diced
-1/2 cup frozen or fresh corn
-1 tsp chopped fresh oregano
-1/2 tsp salt
-1/2 tsp black pepper
-print a shopping list for this recipeview wine pairings
+* 1 tbsp plus 2 tsp canola oil
+* 1 small zucchini, sliced 1/2 inch thick in half-moon shapes
+* 1 small yellow squash, sliced 1/2 inch in half-moon shapes
+* 1 Roma tomato, diced
+* 1 small onion, diced
+* 1/2 cup frozen or fresh corn
+* 1 tsp chopped fresh oregano
+* 1/2 tsp salt
+* 1/2 tsp black pepper
 
 ###Preparation
 For sauce, preheat oven to 400°F. Lightly coat a baking sheet with oil. Place tomatoes, onion and garlic on baking sheet. Roast 15 minutes or until onion and garlic turn golden brown. While the vegetables are roasting, start preparing the enchiladas (see below). Remove vegetables from oven. Cool. Place in a blender along with chili powder, cumin, salt, and pepper and puree until smooth. Set aside.
