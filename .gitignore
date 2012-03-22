@@ -8,3 +8,8 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+bin/*
+*.suo
+temp.sln
+temp.csproj
+obj/*
