@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Herb Salad Spring Rolls with Spicy Peanut Sauce
+title: "Herb Salad Spring Rolls with Spicy Peanut Sauce"
 category: recipes
 tags: [entree]
 ---
