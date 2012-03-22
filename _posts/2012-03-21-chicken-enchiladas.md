@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Canyon Ranch Grilled Chicken Enchiladas and Calabacitas"
-category: 
-tags: []
+category: recipes
+tags: [entree]
 ---
 {% include JB/setup %}
 

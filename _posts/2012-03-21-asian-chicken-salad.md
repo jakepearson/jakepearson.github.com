@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Asian Chicken Salad"
-category: 
-tags: []
+category: recipes
+tags: [salad]
 ---
 {% include JB/setup %}
 
