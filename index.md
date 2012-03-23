@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Who wants to cook some stuff
-tagline: I do
+title: Hot Talk
+tagline: from Jake
 ---
 {% include JB/setup %}
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+<div class="post">
+  {% for post in site.posts limit:5 %}
+    <h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> written on {{ post.date | date_to_string }}</h2>
+    {{ post.content }}    
+    <hr />
   {% endfor %}
-</ul>
+</div>
