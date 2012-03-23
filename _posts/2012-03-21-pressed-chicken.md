@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pressed Chicken with Squash and Tomatoes"
-category: Recipes
+category: recipes
 tags: [Entree]
 ---
 {% include JB/setup %}
