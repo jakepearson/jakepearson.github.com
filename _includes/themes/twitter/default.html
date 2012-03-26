@@ -26,7 +26,7 @@
 
   <body>
 
-    <div class="navbar">
+    <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
@@ -34,7 +34,6 @@
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
-            This is some stuff I dod
           </ul>
         </div>
       </div>
@@ -43,6 +42,8 @@
     <div class="container">
 
       <div class="content">
+        <br />
+        <br />
         {{ content }}
       </div>
 
