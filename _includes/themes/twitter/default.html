@@ -58,15 +58,18 @@
             {% for post in site.pages %}
               <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
+            <li class="nav-header">Tags</li>
+            {% assign tags_list = site.tags %}  
+             {% include JB/tags_list %}
           </ul>
         </div>
       </div>
     </div>
 
-    <footer>
+    <footer align="center">
       <p>&copy; {{ site.author.name }} 2012 
-        with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-        and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+        with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll</a>
+        and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter</a>
       </p>
     </footer>
 
