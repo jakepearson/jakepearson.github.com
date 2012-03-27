@@ -12,10 +12,6 @@ title: Home
 	    <h4>Published</h4>
 			<div class="date">
 				<span>{{ post.date | date_to_long_string }}</span>
-				<span>
-					{% assign tags_list = post.tags %}  
-  	  				{% include JB/tags_list %}
-  	  			</span>
 			</div>
 	    <hr>
 	</div>
