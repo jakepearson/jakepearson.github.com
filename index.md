@@ -1,13 +1,19 @@
 ---
 layout: page
-title: char* from Broomfield
+title: Home
 ---
 {% include JB/setup %}
 
 <div class="post">
   {% for post in site.categories.blog limit:5 %}
-    <h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> written on {{ post.date | date_to_string }}</h2>
-    {{ post.content }}    
-    <hr />
+	<div class="span8">
+		<h2>{{ post.title }}</h2>
+	    {{ post.content }}
+	    <h4>Published</h4>
+			<div class="date">
+				<span>{{ post.date | date_to_long_string }}</span>
+			</div>
+	    <hr>
+	</div>
   {% endfor %}
 </div>
