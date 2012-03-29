@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Hot Talk
-tagline: from Jake
+title: char* from Broomfield
 ---
 {% include JB/setup %}
 
