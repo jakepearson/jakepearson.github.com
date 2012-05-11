@@ -14,12 +14,8 @@ tags: [rally, hackathon]
 
     ![Font Awesome](/assets/rally/font-awesome.png)
 
-3. ##Find your exceptions##
+3. ##Expected exceptions make me sad##
 
     ![Breakpoints](/assets/rally/breakpoints.png)
 
     Go directly to the spot in your code where an exception occurred: <https://sites.google.com/a/rallydev.com/dev/tools/intellij/catching-all-exceptions>
-
-4. ##Git Hub Pages##
-
-    Super cheap and easy web hosting
