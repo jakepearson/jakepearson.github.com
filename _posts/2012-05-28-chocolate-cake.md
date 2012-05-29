@@ -1,12 +1,10 @@
 ---
 layout : post
 title : Chocolate Cake
-category : recipes, yum, dessert
-tags : [ recipes ]
+category : blog
+tags : [ recipes, yum, dessert ]
 ---
 {% include JB/setup %}
-
-Can I have that Recipe Chocolate Cake
 
 * 1 pkg of Duncan Hines dark chocolate cake mix
 * 1 pkg instant chocolate fudge pudding
