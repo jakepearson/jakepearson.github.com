@@ -6,12 +6,12 @@ tags : [ recipes ]
 ---
 
 ##Ingredients
-* ¾ melted butter or margarine
+* 3/4 melted butter or margarine
 * 1 c. molasses
 * 1/2 c. honey
 * 1 c. thick buttermilk (I use yogurt)
 * 6.5  c. flour
-* ½ teaspoon salt
+* 1/2 teaspoon salt
 * 2 tsps ginger
 * 4 tsps baking powder
 * 3/4 tsp baking soda
