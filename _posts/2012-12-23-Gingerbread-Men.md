@@ -1,7 +1,7 @@
 ---
 layout : post
 title : Gingerbread Men
-category : recipes
+category : blog
 tags : [ recipes ]
 ---
 
