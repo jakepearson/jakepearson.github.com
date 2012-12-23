@@ -1,7 +1,7 @@
 ---
 layout : post
 title : Gingerbread Men
-category : blog
+category : recipes
 tags : [ recipes ]
 ---
 
@@ -10,7 +10,7 @@ tags : [ recipes ]
 * 1 c. molasses
 * 1/2 c. honey
 * 1 c. thick buttermilk (I use yogurt)
-* 6.5  c. flour
+* 6.5 c. flour
 * 1/2 teaspoon salt
 * 2 tsps ginger
 * 4 tsps baking powder
