@@ -9,9 +9,9 @@ tags : [ recipes ]
 * Some carrots
 * Some jalapenos
 * Half an onion
-* Distilled Vinegar
-* Some garlic powder
-* Some salt
-* Some pepper
+* Distilled Vinegar (fill the jar)
+* 2 tsp garlic powder
+* 2 tbsp salt
+* 1 tsp pepper
 
 Put everything in a jar and let it sit for a day or 2.  Enjoy.
