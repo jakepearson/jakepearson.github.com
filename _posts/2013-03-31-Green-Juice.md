@@ -1,6 +1,6 @@
 ---
 layout : post
-title : Greem Juice
+title : Green Juice
 category : recipes
 tags : [ recipes ]
 ---
