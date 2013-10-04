@@ -7,7 +7,7 @@ tags : [ recipes ]
 * 2/3 cup extra-virgin olive oil
 * 3 tablespoons plus 1/4 cup fresh lemon juice
 * 1 1/2 teaspoons fennel seeds, coarsely crushed
-* 1 1/2 teaspoons salt
+* 1/2 teaspoons salt
 * 1 teaspoon freshly ground black pepper
 * 6 boneless skinless chicken breasts
 * 1 cup lightly packed fresh basil leaves
