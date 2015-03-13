@@ -1,3 +1,8 @@
+---
+title: Programming - Science Club
+layout: post
+---
+
 # Programming
 
 ## What is programming?

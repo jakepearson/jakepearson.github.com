@@ -1,3 +1,7 @@
+---
+title: Programming - Science Club
+layout: post
+---
 ---------------------------------
 Step Forward|Turn Left|Turn Right
 Step Back|Grab|Crawl
