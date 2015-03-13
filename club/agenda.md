@@ -3,8 +3,6 @@ title: Programming - Science Club
 layout: post
 ---
 
-# Programming
-
 ## What is programming?
 * Giving instructions to computers
 * Always follow instructions even if they are a bad idea
