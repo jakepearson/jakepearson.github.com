@@ -1,19 +1,6 @@
 ---
-layout: page
-title: Home
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
 ---
-{% include JB/setup %}
-
-<div class="post">
-  {% for post in site.categories.blog limit:5 %}
-	<div class="span8">
-		<h2>{{ post.title }}</h2>
-	    {{ post.content }}
-	    <h4>Published</h4>
-			<div class="date">
-				<span>{{ post.date | date_to_long_string }}</span>
-			</div>
-	    <hr>
-	</div>
-  {% endfor %}
-</div>

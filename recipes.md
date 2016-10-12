@@ -3,7 +3,7 @@ layout: page
 title: Recipes
 group: navigation
 ---
-{% include JB/setup %}
+
 
 <div class="post">
 	<ul>

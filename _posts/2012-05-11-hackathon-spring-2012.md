@@ -1,20 +1,19 @@
 ---
 layout: post
 title: "Hackathon (Spring 2012)"
-category: blog
-tags: [rally, hackathon]
+categories: rally hackathon
+date: 2012-05-11
 ---
-{% include JB/setup %}
 
-1. ##Integration test output##
+## Integration test output
 
     ![Test Output](/assets/rally/integration-test.png)
 
-2. ##Font Awesome is Awesome##
+## Font Awesome is Awesome
 
     ![Font Awesome](/assets/rally/font-awesome.png)
 
-3. ##Expected exceptions make me sad##
+## Expected exceptions make me sad
 
     ![Breakpoints](/assets/rally/breakpoints.png)
 

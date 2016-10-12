@@ -1,6 +1,6 @@
 ---
 title: Programming - Science Club
-layout: post
+layout: page
 ---
 
 ## What is programming?
