@@ -1,8 +1,7 @@
 ---
 layout: page
-title : apple pecan salad
+title : Apple Pecan Salad
 categories: recipes
-date: 2011-01-17
 ---
 ### Ingredients
 * mixed baby greens

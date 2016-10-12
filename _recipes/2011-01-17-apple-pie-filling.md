@@ -1,10 +1,11 @@
 ---
 layout: page
-title : apple pie filling
+title : Apple Pie Filling
 categories: recipes
 ---
 
 ### Filling
+
 * 3 1/4 pounds Granny Smith apples, peeled, cored, sliced 1/4 inch thick
 * 2/3 cup sugar
 * 2 tablespoons all purpose flour
@@ -12,6 +13,7 @@ categories: recipes
 * 2 tablespoons unsalted butter, melted
 
 ### Topping
+
 * 1 cup all purpose flour
 * 1/2 cup sugar
 * 1/4 cup (packed) golden brown sugar

@@ -2,7 +2,6 @@
 layout: post
 title : Drunken Rum Cake
 categories : recipes
-date: 2011-01-02
 ---
 
 ###Basic Cake Mix
