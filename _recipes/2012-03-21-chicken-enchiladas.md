@@ -5,9 +5,10 @@ category: recipes
 tags: [entree]
 ---
 
+## Ingredients
 
-###Ingredients
-####Sauce
+###Sauce
+
 * 1 tbsp olive oil
 * 16 Roma tomatoes, quartered
 * 1 medium onion, sliced
@@ -17,7 +18,8 @@ tags: [entree]
 * 1/2 tsp salt
 * 1/4 tsp pepper
 
-####Enchiladas
+###Enchiladas
+
 * 1 tsp paprika
 * 1 tsp chili powder
 * 1 tsp ground cumin
@@ -27,7 +29,8 @@ tags: [entree]
 * 1/2 cup shredded cheddar
 * 1/2 cup diced green chile (Anaheim chile, fresh or canned)
 
-####Calabacitas
+###Calabacitas
+
 * 1 tbsp plus 2 tsp canola oil
 * 1 small zucchini, sliced 1/2 inch thick in half-moon shapes
 * 1 small yellow squash, sliced 1/2 inch in half-moon shapes
@@ -38,7 +41,8 @@ tags: [entree]
 * 1/2 tsp salt
 * 1/2 tsp black pepper
 
-###Preparation
+##Preparation
+
 For sauce, preheat oven to 400°F. Lightly coat a baking sheet with oil. Place tomatoes, onion and garlic on baking sheet. Roast 15 minutes or until onion and garlic turn golden brown. While the vegetables are roasting, start preparing the enchiladas (see below). Remove vegetables from oven. Cool. Place in a blender along with chili powder, cumin, salt, and pepper and puree until smooth. Set aside.
 
 For the enchiladas, combine paprika, cumin, and chili powder in a small bowl. Add oil and 2 tsp water and mix to form a paste. Pat all of spice paste on chicken. Grill or broil chicken 3 to 5 minutes on each side or until juices run clear when pierced with a fork. Cool and slice each breast into long strips (about 3/4 inches wide and 4 inches long). Lay tortillas on a flat surface. Place 3 chicken strips, 2 tbsp cheese, and 2 tbsp green chile on each tortilla. Roll and place in a 9" x 13" baking pan. Cover with sauce. Reduce oven heat to 350°F. Cook enchiladas 15 to 20 minutes or until sauce is bubbly.

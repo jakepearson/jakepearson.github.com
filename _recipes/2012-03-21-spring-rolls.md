@@ -5,8 +5,8 @@ category: recipes
 tags: [entree]
 ---
 
+### Ingredients
 
-###Ingredients
 * a 1.8- to 2-ounce package bean-thread (cellophane) noodles
 * 1 1/2 tablespoons rice vinegar
 * 2 large Boston lettuce leaves, washed well and spun dry
@@ -22,7 +22,7 @@ tags: [entree]
 Accompaniment: Spicy Peanut Sauce
 print a shopping list for this recipeview wine pairings
 
-###Preparation
+### Preparation
 
 1. In a bowl soak noodles in very hot water to cover 15 minutes and drain well in a colander. 
 1. Reserve half of noodles for another use. 

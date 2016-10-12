@@ -4,6 +4,7 @@ title : Chicken Paella with Sugar Snap Peas
 categories: recipes
 tags : [ recipes ]
 ---
+
 [Paella](http://farm5.static.flickr.com/4006/4576491683_6f6f7baf84_m.jpg)
 
 * 1/2 cup dry white wine
@@ -22,7 +23,7 @@ tags : [ recipes ]
 * 1/4 cup chopped roasted red peppers from jar
 * 2 1/2 cups sugar snap peas, trimmed (about 8 ounces)
 
-###Steps
+### Steps
 1. Preheat oven to 400°F. 
 1. Mix white wine and saffron threads in small measuring cup; set aside. 
 1. Combine salt, smoked paprika, and black pepper in small bowl; rub spice mixture all over chicken thighs. 

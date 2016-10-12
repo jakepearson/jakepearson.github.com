@@ -4,6 +4,7 @@ title : Leek Potato and Gruyere Frittata
 categories: recipes
 tags : [ recipes ]
 ---
+
 * 3 Tbs unsalted butter
 * 6 oz small red potatoes, sliced 1/8" thick
 * salt and pepper to taste

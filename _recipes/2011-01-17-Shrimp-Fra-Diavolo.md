@@ -4,6 +4,7 @@ title : Shrimp Fra Diavolo
 categories: recipes
 tags : [ recipes ]
 ---
+
 * 1 pound large shrimp, peeled, deveined
 * 1 teaspoon salt, plus additional as needed
 * 1 teaspoon dried crushed red pepper flakes

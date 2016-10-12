@@ -4,13 +4,14 @@ title : Chocolate Mousse
 categories: recipes
 tags : [ recipes ]
 ---
-###Ingredients
+
+### Ingredients
 * 11 oz bag of chocolate chips
 * 2 tbsp sugar 
 * 1 pint whipping cream
 * 3 egg whites
 
-###Steps
+### Steps
 1. Melt chocolate in a double boiler
 2. Whisk egg whites and sugar until peaks have formed
 3. Which cream until it is whipped

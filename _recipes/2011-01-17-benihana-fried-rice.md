@@ -2,7 +2,6 @@
 layout: page
 title : Benihana Fried Rice
 categories: recipes
-date: 2011-01-17
 ---
 
 * 1/2 tsp chopped onion

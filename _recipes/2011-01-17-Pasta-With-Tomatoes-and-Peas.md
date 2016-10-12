@@ -4,6 +4,7 @@ title : Pasta With Tomatoes and Peas
 categories: recipes
 tags : [ recipes ]
 ---
+
 * 1 lb linguine
 * 3 tablespoons extra-virgin olive oil
 * 3 shallots, chopped
@@ -19,7 +20,6 @@ tags : [ recipes ]
 * 1/4 cup grated parmesan cheese
 * 1/4 cup grated romano cheese
 
-#
 1. Bring a large pot of salted water to a boil over high heat.
 1. Add the pasta and cook until tender but still firm to the bite, stirring occasionally, about 8 to 10 minutes.
 1. Drain the pasta, reserving 2 cups of the pasta water.

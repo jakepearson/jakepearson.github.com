@@ -5,7 +5,7 @@ categories: recipes
 tags : [ recipes ]
 ---
 
-##Ingredients
+## Ingredients
 * 3/4 melted butter or margarine
 * 1 c. molasses
 * 1/2 c. honey
@@ -17,7 +17,7 @@ tags : [ recipes ]
 * 3/4 tsp baking soda
 * 1 Tblsp lemon or orange extract (optional)
 
-##Directions
+## Directions
 1. Mix melted butter, molasses and honey until smooth. Add buttermilk (yogurt), then the flour sifted with salt, ginger, baking powder and soda.
 2. Add lemon or orange extract.
 3. Mix to a smooth, stiff dough. Roll out on lightly floured surface to 1/3 inch.

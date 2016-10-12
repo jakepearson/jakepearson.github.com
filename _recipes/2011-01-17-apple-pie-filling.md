@@ -2,7 +2,6 @@
 layout: page
 title : apple pie filling
 categories: recipes
-date: 2011-01-17
 ---
 
 ### Filling
@@ -20,10 +19,12 @@ date: 2011-01-17
 * 1/2 teaspoon salt
 * 6 tablespoons chilled unsalted butter, cut into 1/2-inch cubes
 
-### For filling:
+### For filling
+
 Mix all ingredients in large bowl to coat apples.
 
-### For topping:
+### For topping
+
 Blend first 5 ingredients in processor. Add chilled butter cubes; using on/off turns, cut in until mixture resembles wet sand.
 
 Toss filling to redistribute juices; transfer to crust, mounding in center. Pack topping over and around apples. Bake pie on baking sheet until topping is golden, about 40 minutes (cover top with foil if browning too quickly). Reduce oven temperature to 350°F. Bake until apples in center are tender when pierced and filling is bubbling thickly at edges, about 45 minutes longer. Cool until warm, about 1 hour. Serve with ice cream.

@@ -2,7 +2,6 @@
 layout: page
 title : Banana Bread
 categories: recipes
-date: 2011-01-17
 ---
 
 * 1 2/3 cups all-purpose flour
@@ -19,7 +18,7 @@ date: 2011-01-17
 * 1 teaspoon vanilla extract (more)
 * 2/3 cup walnuts, toasted and chopped
 
-## Directions:
+## Directions
 
 Set oven to 350 degrees F. Line the bottom of a loaf pan with parchment paper.
 

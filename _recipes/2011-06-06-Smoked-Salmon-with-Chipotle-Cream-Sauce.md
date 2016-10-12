@@ -4,6 +4,7 @@ title : Smoked Salmon with Chipotle Cream Sauce
 categories: recipes
 tags : [ recipes ]
 ---
+
 Smoke some salmon. I guess you could grill it too. Make some sauce:
 
 * 8 ounces sour cream

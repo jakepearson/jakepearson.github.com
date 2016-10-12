@@ -5,7 +5,6 @@ categories: blog
 tags : [ recipes, yum, dessert ]
 ---
 
-
 * 1 pkg of Duncan Hines dark chocolate cake mix
 * 1 pkg instant chocolate fudge pudding
 * ½ c. water

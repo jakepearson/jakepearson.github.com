@@ -5,7 +5,7 @@ categories: recipes
 tags : [ recipes ]
 ---
 
-###Ingredients
+### Ingredients
 * Some carrots
 * Some jalapenos
 * Half an onion

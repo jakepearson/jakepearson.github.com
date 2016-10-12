@@ -4,6 +4,7 @@ title : Mustard Potato Salad
 categories: recipes
 tags : [ recipes ]
 ---
+
 * 3 pounds new potatoes, boiled and sliced into 1/4-inch thick rounds
 * 4 green onions, thinly sliced
 * 1 cup mayonnaise
