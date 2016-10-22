@@ -6,7 +6,8 @@ group: navigation
 
 <div class="post">
 	<ul>
-		{% for post in site.recipes %}
+   	{% assign sorted_recipes = site.recipes | sort:"title" %}
+		{% for post in sorted_recipes %}
 			<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 		{% endfor %}
   	</ul>
