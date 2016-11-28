@@ -7,5 +7,6 @@
     "**/.DS_Store": true,
     "_site": true,
     ".sass-cache": true
-  }
+  },
+  "editor.wordWrap": true
 }
