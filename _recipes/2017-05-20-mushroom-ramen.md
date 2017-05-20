@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Mushroom Rament
+title : Mushroom Ramen
 categories: recipes
 tags : [ recipes ]
 ---
