@@ -5,8 +5,6 @@ categories: recipes
 tags : [ recipes ]
 ---
 
-# Coconut Cream	
-
 ## Ingredients
 
 ### Crust

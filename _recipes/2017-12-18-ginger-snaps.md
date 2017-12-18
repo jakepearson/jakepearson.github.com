@@ -5,8 +5,6 @@ categories: recipes
 tags : [ recipes ]
 ---
 
-# Ginger Snaps	
-
 Makes 40-50 cookies
 
 From The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution (Clarkson Potter) by Alice Waters.These cookies get crisp when cool and are great holiday cookies. I like them coated with lots of crystals of coarse sugar, which is called Hawaiian washed sugar in the US, or cassonade here in France. (Coarse sugar is also available online.)You can also rev-up the spices, and add ¼-½ teaspoon ground cardamom, cloves, nutmeg or allspice to suit your taste.
