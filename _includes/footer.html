@@ -48,10 +48,16 @@ analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "track
       }
     }();
 
-    analytics.identify('abc123', {
+    analytics.identify('user123', {
       email: 'jake.pearson@ca.com',
       name: 'Jake Pearson'
     });
+
+    analytics.group('group123', {
+      employees: 10000,
+      name: 'CA',
+      plan: 'premium'
+    })
   </script>
 
 </footer>
