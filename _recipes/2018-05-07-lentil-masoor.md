@@ -6,18 +6,18 @@ tags : [ recipes ]
 ---
 
 # Ingredients
-1 tablespoon olive or avocado oil
-1 small yellow onion, diced
-2 cloves garlic, minced
-1 tablespoon grated ginger
-1 tablespoon curry powder
-1 teaspoon turmeric
-1 1/2 cups red lentils, rinsed and picked over
-1 (15 oz.) can coconut milk
-1 cup water
-1/2 teaspoon salt
-fresh cilantro, for garnish
-cooked rice, for serving
+* 1 tablespoon olive or avocado oil
+* 1 small yellow onion, diced
+* 2 cloves garlic, minced
+* 1 tablespoon grated ginger
+* 1 tablespoon curry powder
+* 1 teaspoon turmeric
+* 1 1/2 cups red lentils, rinsed and picked over
+* 1 (15 oz.) can coconut milk
+* 1 cup water
+* 1/2 teaspoon salt
+* fresh cilantro, for garnish
+* cooked rice, for serving
 
 # Directions
 
