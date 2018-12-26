@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Roasted vegetable and penne pasta
-categories: recipes
+categories: recipes, dinner
 tags : [ recipes ]
 ---
 

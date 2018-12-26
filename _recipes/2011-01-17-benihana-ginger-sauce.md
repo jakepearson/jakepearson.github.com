@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Benihana Ginger Sauce
-categories: recipes
+categories: recipes, dinner
 ---
 * 5 ounces sliced onion (rinsed in running water for 15 minutes)
 * 2 ounces ginger, peeled and sliced thinly

@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Gingerbread Men
-categories: recipes
+categories: recipes, dessert
 tags : [ recipes ]
 ---
 

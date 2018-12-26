@@ -1,13 +1,13 @@
 ---
 layout: page
 title : Chana Masala
-categories: recipes
+categories: recipes, dinner
 tags : [ recipes ]
 ---
 
 ![Yum!](/assets/images/chana.jpg)
 
-### Ingredients
+# Ingredients
 
 * 3 Tbsp (45 ml) grape seed oil (or sub coconut oil)
 * 1 white or yellow onion, finely diced (110 g)
@@ -26,7 +26,7 @@ tags : [ recipes ]
 * 2-3 tsp coconut sugar
 * 2 Tbsp (30 ml) lemon juice, plus more to taste
 
-### Instructions
+# Instructions
 
 1. Heat a large pot over medium heat. Once hot, add oil, onion, cumin, and 1/4 tsp salt.
 2. Add garlic, ginger, cilantro, and green chilies to a mortar and pestle and grind into a rough paste (or use a small food processor to pulse into a paste. Alternatively, just finely mince.) Then, add to the pan with the onions.

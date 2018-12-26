@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "Canyon Ranch Grilled Chicken Enchiladas and Calabacitas"
-category: recipes
+category: recipes, dinner
 tags: [entree]
 ---
 
-## Ingredients
+# Ingredients
 
-###Sauce
+## Sauce
 
 * 1 tbsp olive oil
 * 16 Roma tomatoes, quartered
@@ -18,7 +18,7 @@ tags: [entree]
 * 1/2 tsp salt
 * 1/4 tsp pepper
 
-###Enchiladas
+## Enchiladas
 
 * 1 tsp paprika
 * 1 tsp chili powder
@@ -29,7 +29,7 @@ tags: [entree]
 * 1/2 cup shredded cheddar
 * 1/2 cup diced green chile (Anaheim chile, fresh or canned)
 
-###Calabacitas
+## Calabacitas
 
 * 1 tbsp plus 2 tsp canola oil
 * 1 small zucchini, sliced 1/2 inch thick in half-moon shapes
@@ -41,7 +41,7 @@ tags: [entree]
 * 1/2 tsp salt
 * 1/2 tsp black pepper
 
-##Preparation
+# Preparation
 
 For sauce, preheat oven to 400°F. Lightly coat a baking sheet with oil. Place tomatoes, onion and garlic on baking sheet. Roast 15 minutes or until onion and garlic turn golden brown. While the vegetables are roasting, start preparing the enchiladas (see below). Remove vegetables from oven. Cool. Place in a blender along with chili powder, cumin, salt, and pepper and puree until smooth. Set aside.
 

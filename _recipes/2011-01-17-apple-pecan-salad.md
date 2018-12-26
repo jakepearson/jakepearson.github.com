@@ -1,15 +1,18 @@
 ---
 layout: page
 title : Apple Pecan Salad
-categories: recipes
+categories: recipes, dinner
 ---
-### Ingredients
+
+# Ingredients
+
 * mixed baby greens
 * sliced granny smith apples
 * spiced pecans
 * goat cheese
 
-### Dressing
+# Dressing
+
 * 1/3 cup cider vinegar
 * 3 cloves crushed garlic
 * 2 minced shallots
@@ -21,7 +24,8 @@ Blend all ingredients + 1 tsp ground pepper in food processor.  with processor r
 
 Toss dressing with salad ingredients.  for 1 lb of greens i usually have left over drissing which keeps well in the regrigerator.
 
-### Spiced pecans
+## Spiced pecans
+
 * 3 cups pecans
 * 1 T cinnamon
 * 1 tsp cayenne
@@ -34,5 +38,3 @@ Toss dressing with salad ingredients.  for 1 lb of greens i usually have left ov
 1. spread pecans on cookie sheet and back at 350 for 10 minutes- or until brown.
 2. combine all spices and melted butter
 3. toss pecans with spice mix and spread on cookie sheet to dry.
-
-

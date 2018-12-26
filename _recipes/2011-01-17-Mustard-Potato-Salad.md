@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Mustard Potato Salad
-categories: recipes
+categories: recipes, dinner
 tags : [ recipes ]
 ---
 
@@ -18,5 +18,3 @@ tags : [ recipes ]
 Place the warm potatoes and green onions in a large bowl. Whisk together the mayonnaise, mustards, garlic, vinegar and parsley and season with salt and pepper, to taste. Add the dressing to the potatoes and carefully mix until combined.
 
 Originally by [Bobby Flay](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_22625,00.html)
-
-

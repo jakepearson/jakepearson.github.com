@@ -1,7 +1,7 @@
 ---
 layout: post
 title : Salted Butter and Chocolate Chunk Shortbread
-categories : recipes
+categories : recipes, dessert
 ---
 
 # Ingredients

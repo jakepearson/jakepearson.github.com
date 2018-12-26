@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "Cucumber Tomato and Feta Salad"
-category: recipes
+category: recipes, dinner
 tags: [salad]
 ---
 
-### Ingredients
+# Ingredients
+
 * 6 cups coarsely chopped English hothouse or Persian cucumbers (about 2 pounds total)
 * 2 large tomatoes (about 1 pound total), coarsely chopped
 * 1 bunch scallions, chopped
@@ -16,7 +17,8 @@ tags: [salad]
 * 1/4 cup fresh lemon juice
 * Kosher salt and freshly ground black pepper
 
-### Preparation
+# Directions
+
 1. Combine cucumbers, tomatoes, scallions, olives, half of feta, and mint in a large bowl. 
 1. Whisk oil and lemon juice in a small bowl; season dressing with salt and pepper. Pour dressing over salad; toss to coat. 
 1. Season to taste with salt and pepper. 

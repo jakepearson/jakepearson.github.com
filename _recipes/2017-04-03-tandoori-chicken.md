@@ -1,11 +1,12 @@
 ---
 layout: page
 title : Tandoori Chicken
-categories: recipes
+categories: recipes, dinner
 tags : [ recipes ]
 ---
 
-## Ingredients
+# Ingredients
+
 * 3 Tbsp vegetable oil
 * 1 teaspoon ground coriander
 * 1 teaspoon ground cumin
@@ -20,7 +21,8 @@ tags : [ recipes ]
 * 1 teaspoon salt
 * 4 whole chicken legs (drumsticks and thighs), or its equivalent, skinless, bone-in
 
-## Instructions
+# Instructions
+
 1. Heat the spices in oil: Heat the oil in a small pan over medium heat, then cook the coriander, cumin, turmeric, cayenne, garam masala and paprika, stirring often, until fragrant (approximately 2-3 minutes). Let cool completely.
 2. Whisk into yogurt, add lemon juice, garlic, salt, ginger: Whisk in the cooled spice-oil mixture into the yogurt, then mix in the lemon juice, garlic, salt and ginger.
 3. Cut deep slashes into chicken, coat with marinade, chill: Cut deep slashes (to the bone) in 3-4 places on the leg/thigh pieces. Just make 2-3 cuts if you are using separate drumsticks and thighs. Coat the chicken in the marinade, cover and chill for at least an hour (preferably 6 hours), no more than 8 hours.

@@ -1,19 +1,18 @@
 ---
 layout: page
 title : Candy Cane Ice Cream Pie
-categories: recipes
-tags : [ recipes ]
+categories: recipes, dessert
 ---
 
 Nothing sparks holiday nostalgia like candy canes, so don’t be surprised if this dessert becomes the thing your family looks forward to year after year. It requires very little effort and can be made days ahead of time. Better still: it speaks to the kid inside each guest, ensuring that your gathering will have a very sweet ending indeed.
 
-*  1 tsp. vegetable oil
-*  13 oz. homemade or store-bought brownies
-*  3 qts. high-quality vanilla ice cream
-*  1 cup crushed peppermint candies
-*  ¾ cup semi-sweet chocolate chips
-*  1 cup whipping cream
-*  2 tbsp. sugar
+* 1 tsp. vegetable oil
+* 13 oz. homemade or store-bought brownies
+* 3 qts. high-quality vanilla ice cream
+* 1 cup crushed peppermint candies
+* ¾ cup semi-sweet chocolate chips
+* 1 cup whipping cream
+* 2 tbsp. sugar
 
 Using your fingers, rub the bottom and sides of an 8-inch spring form pan (or 10-inch deep-dish pie pan) evenly with vegetable oil; this will help the frozen pie lift off the pan more easily when serving. Break brownies into bite-size pieces and press evenly into pie pan, covering the bottom and sides flush to the edge. Cover pan and freeze for at least 20 minutes.
 

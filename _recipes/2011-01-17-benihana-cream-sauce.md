@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Benihana Cream Sauce
-categories: recipes
+categories: recipes, dinner
 ---
 
 * 2 cups soy sauce

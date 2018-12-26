@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Flatbread
-categories: recipes
+categories: recipes, dinner
 tags : [ recipes ]
 ---
 

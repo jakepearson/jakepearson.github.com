@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Mushroom Ramen
-categories: recipes
+categories: recipes, breakfast
 tags : [ recipes ]
 ---
 

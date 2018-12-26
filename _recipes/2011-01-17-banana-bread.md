@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Banana Bread
-categories: recipes
+categories: recipes, dessert
 ---
 
 * 1 2/3 cups all-purpose flour

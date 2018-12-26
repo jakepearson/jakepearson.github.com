@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Apple Pie Filling
-categories: recipes
+categories: recipes, dessert
 ---
 
 ### Filling

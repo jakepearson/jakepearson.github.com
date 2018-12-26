@@ -1,8 +1,7 @@
 ---
 layout: page
 title : Frozen Lemonade Pie
-categories: recipes
-tags : [ recipes ]
+categories: recipes, dessert
 ---
 
 ## Ingredients

@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Miso-y Charred Carrot Soup
-categories: recipes
+categories: recipes, dinner, soup
 tags : [ recipes ]
 ---
 

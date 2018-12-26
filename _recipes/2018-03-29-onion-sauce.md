@@ -1,11 +1,12 @@
 ---
 layout: page
 title : Lemon Onion Sauce
-categories: recipes
+categories: recipes, dinner
 tags : [ recipes ]
 ---
 
-### Ingredients
+# Ingredients
+
 * Lemons (3 or 4)
 * Onion (1 whole onion)
 * 1 hot pepper of some kind (you can skip if you want)
@@ -15,7 +16,7 @@ tags : [ recipes ]
 * Pepper
 * Olive Oil
 
+# Directions
 
-### Steps
 1. Put it in the blender
 2. Blend

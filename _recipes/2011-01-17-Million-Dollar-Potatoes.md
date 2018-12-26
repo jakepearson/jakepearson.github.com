@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Million Dollar Potatoes
-categories: recipes
+categories: recipes, dinner
 tags : [ recipes ]
 ---
 
@@ -16,5 +16,3 @@ Cook at 350&deg;
 
 * 1 hour covered
 * 1 hour uncovered
-
-

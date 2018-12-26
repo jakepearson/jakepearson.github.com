@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Mexican Hot Chocolate Cookies
-categories: recipes
+categories: recipes, dessert
 tags : [ recipes ]
 ---
 

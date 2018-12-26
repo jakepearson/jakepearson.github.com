@@ -1,34 +1,32 @@
 ---
 layout: page
 title : Gingerbread Cake
-categories: recipes
+categories: recipes, dessert
 tags : [ recipes ]
 ---
 
-# Gingerbread
+# Ingredients
 
-## Ingredients
+* 1 2/3 cups blackstrap molasses (or lighter molasses, like Grandma's)
+* 1/3 cup maple syrup
+* 2 cups beer, medium-bodied (I like using Racer 5 IPA)
+* 1 tablespoon baking soda
+* 2 tablespoons freshly grated ginger
+* 4 cups all-purpose flour
+* 1 tablespoon baking powder
+* 2 tablespoons ground ginger
+* 2 teaspoons ground cinnamon
+* 1/2 teaspoon ground cloves
+* 1/2 teaspoon ground nutmeg
+* 1/2 teaspoon ground cardamom
+* 2 teaspoons salt
+* 6 eggs
+* 2 cups canola oil
+* 1 cup dark brown sugar
+* 1 cup white sugar
+* 2 tablespoons vanilla bean extract
 
-* 1 2/3	cups blackstrap molasses (or lighter molasses, like Grandma's)
-* 1/3	cup maple syrup
-* 2	cups beer, medium-bodied (I like using Racer 5 IPA)
-* 1	tablespoon baking soda
-* 2	tablespoons freshly grated ginger
-* 4	cups all-purpose flour
-* 1	tablespoon baking powder
-* 2	tablespoons ground ginger
-* 2	teaspoons ground cinnamon
-* 1/2	teaspoon ground cloves
-* 1/2	teaspoon ground nutmeg
-* 1/2	teaspoon ground cardamom
-* 2	teaspoons salt
-* 6	eggs
-* 2	cups canola oil
-* 1	cup dark brown sugar
-* 1	cup white sugar
-* 2	tablespoons vanilla bean extract
-
-## Instructions
+# Directions
 
 1. Pour molasses, maple syrup, and beer into a large pot. Whisk together. Bring to just under the boil, then take off the heat. Add the baking soda. Careful. It will rise up like a volcano. Set aside to cool completely.
 2. Heat oven to 350° F. 
@@ -42,11 +40,11 @@ tags : [ recipes ]
 
 # Cream Cheese Frosting
 
-* 4	tablespoons unsalted butter, room temperature
-* 16	ounces whipped cream cheese (preferably room temperature)
-* 3	cups powdered sugar
-* 2	teaspoons vanilla bean extract
-* 1/8	teaspoon kosher salt 
+* 4 tablespoons unsalted butter, room temperature
+* 16 ounces whipped cream cheese (preferably room temperature)
+* 3 cups powdered sugar
+* 2 teaspoons vanilla bean extract
+* 1/8 teaspoon kosher salt
 
-# Instructions
+## Instructions
 Place all ingredients in a standing mixer and beat the heck out of them for 2 minutes with the paddle attachment. Scrape down the sides. Taste. Add more vanilla or salt if you wish. If it's still a little lumpy, beat for 30 more seconds. This will keep in the fridge for about a week.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Dutch Baby
-categories: recipes
+categories: recipes, breakfast
 tags : [ recipes ]
 ---
 

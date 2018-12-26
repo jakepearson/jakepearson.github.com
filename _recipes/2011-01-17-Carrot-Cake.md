@@ -1,35 +1,35 @@
 ---
 layout: page
 title : Carrot Cake
-categories: recipes
-tags : [ recipes ]
+categories: recipes, dessert
 ---
-## Ingredients
 
-### Cake
+# Ingredients
 
-*  12 ounces, approximately 2 1/2 cups, all-purpose flour
-*  12 ounces grated carrots, medium grate, approximately 6 medium
-*  1 teaspoon baking powder
-*  1 teaspoon baking soda
-*  1/4 teaspoon ground allspice
-*  1/4 teaspoon ground cinnamon
-*  1/4 teaspoon freshly ground nutmeg
-*  1/2 teaspoon salt
-*  10 ounces sugar, approximately 1 1/3 cups
-*  2 ounces dark brown sugar, approximately 1/4 cup firmly packed
-*  3 large eggs
-*  6 ounces plain yogurt
-*  6 ounces vegetable oil
+## Cake
 
-### Cream Cheese Frosting
+* 12 ounces, approximately 2 1/2 cups, all-purpose flour
+* 12 ounces grated carrots, medium grate, approximately 6 medium
+* 1 teaspoon baking powder
+* 1 teaspoon baking soda
+* 1/4 teaspoon ground allspice
+* 1/4 teaspoon ground cinnamon
+* 1/4 teaspoon freshly ground nutmeg
+* 1/2 teaspoon salt
+* 10 ounces sugar, approximately 1 1/3 cups
+* 2 ounces dark brown sugar, approximately 1/4 cup firmly packed
+* 3 large eggs
+* 6 ounces plain yogurt
+* 6 ounces vegetable oil
+
+## Cream Cheese Frosting
 
 * 8 ounces cream cheese
 * 2 ounces unsalted butter, room temperature
 * 1 teaspoon vanilla extract
 * 9 ounces powdered sugar, sifted, approximately 2 cups
 
-## Directions
+# Directions
 
 This recipe is [Alton Brown's](http://www.foodnetwork.com/recipes/alton-brown/carrot-cake-recipe/index.html). The few changes I made are
 
@@ -38,7 +38,7 @@ This recipe is [Alton Brown's](http://www.foodnetwork.com/recipes/alton-brown/ca
 * I just sprayed the pans with Pam after putting in the parchment paper. To cut the parchment paper, place the cake pan on top of the paper, and cut around the cake pan with a utility knife.
 * I split into 2 pans to make a 2-layer cake - see updated directions below
 
-### Cake
+## Cake
 
 Preheat oven to 350 degrees F.
 
@@ -54,6 +54,6 @@ With the processor still running drizzle in the vegetable oil. Pour this mixture
 
 Remove the pan from the oven and allow cake to cool 15 minutes in the pan. After 15 minutes, turn the cake out onto a rack and allow cake to cool completely. Frost with cream cheese frosting after cake has cooled completely.
 
-### Frosting
+## Frosting
 
 In the bowl of a stand mixer with paddle attachment, combine the cream cheese and butter on medium just until blended. Add the vanilla and beat until combined. With the speed on low, add the powdered sugar in 4 batches and beat until smooth between each addition.

@@ -1,9 +1,10 @@
 ---
 layout: page
 title : Chocolate Cake
-categories: blog
-tags : [ recipes, yum, dessert ]
+categories: recipes, dessert
 ---
+
+# Ingredients
 
 * 1 pkg of Duncan Hines dark chocolate cake mix
 * 1 pkg instant chocolate fudge pudding
@@ -12,6 +13,8 @@ tags : [ recipes, yum, dessert ]
 * 1 pint sour cream
 * 4 eggs
 * 12 oz. Semi-sweet chocolate chips
+
+# Directions
 
 Blend everything but the chocolate chips, then stir them in. In a well-greased bundt pan, bake for one hour at 350. Cool upside down for ten minutes.
 

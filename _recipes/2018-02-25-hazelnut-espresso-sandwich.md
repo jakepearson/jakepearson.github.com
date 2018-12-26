@@ -1,24 +1,24 @@
 ---
 layout: post
 title : Salted Butter and Chocolate Chunk Shortbread
-categories : recipes
+categories : recipes, dessert
 ---
 
 # Ingredients
 
-* 1	cup hazelnuts, toasted and skinned
-* 2 1/2	cups all-purpose flour
-* 1/2	teaspoon salt
-* 1/2	teaspoon baking powder
-* 1	cup unsalted butter, softened
-* 1 1/2	cups granulated sugar
-* 1	large egg plus 1 large egg yolk
-* 4	teaspoons instant espresso powder
-* 2	teaspoons vanilla extract
-* 3/4	cup heavy cream
-* 3	cups bittersweet chocolate chips
+* 1 cup hazelnuts, toasted and skinned
+* 2 1/2 cups all-purpose flour
+* 1/2 teaspoon salt
+* 1/2 teaspoon baking powder
+* 1 cup unsalted butter, softened
+* 1 1/2 cups granulated sugar
+* 1 large egg plus 1 large egg yolk
+* 4 teaspoons instant espresso powder
+* 2 teaspoons vanilla extract
+* 3/4 cup heavy cream
+* 3 cups bittersweet chocolate chips
 
-# Instructions
+# Directions
 
 Process hazelnuts in a food processor until finely ground, about 30 seconds. Whisk flour, salt, baking powder, and ground hazelnuts together in a bowl.
 

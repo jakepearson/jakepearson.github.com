@@ -1,11 +1,11 @@
 ---
 layout: page
 title : Cinnamon Raison Bread
-categories: recipes
+categories: recipes, breakfast
 tags : [ recipes ]
 ---
 
-## Ingredients
+# Ingredients
 
 * 1 1/2 cup milk
 * 1 cup warm water (110 degrees)
@@ -20,7 +20,7 @@ tags : [ recipes ]
 * 2 tbsp ground cinnamon
 * 2 tbsp butter - melted
 
-## Directions
+# Directions
 
 1. Warm the milk in a small saucepan until it bubbles, then remove the heat. Let cool until lukewarm. (heat 3/4c, add 3/4c to cool)
 2. Dissolve yeast in warm water, and set aside until yeast is frothy. Mix in eggs, sugar, suft butter, salt, and raisins. Stir in cooled milk. Add the flour gradually to make a stiff dough.

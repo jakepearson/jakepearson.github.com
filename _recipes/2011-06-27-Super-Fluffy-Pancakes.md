@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Super Fluffy Pancakes
-categories: recipes
+categories: recipes, dessert
 tags : [ recipes ]
 ---
 

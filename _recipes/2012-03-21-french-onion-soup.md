@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "French Onion Soup"
-category: recipes
+category: recipes, dinner, soup
 tags: [soup]
 ---
 
-### Ingredients
+# Ingredients
+
 * 2 medium onions, finely chopped
 * 1 tablespoon unsalted butter
 * 1 tablespoon Calvados, Applejack, or other brandy
@@ -14,7 +15,7 @@ tags: [soup]
 * 4–8 1/2"-thick slices baguette, cut to fit ramekins
 * 1 cup grated Gruyère or raclette cheese
 
-### Preparation
+# Directions
 
 1. Preheat oven to 450°F. Cook onions in a 12" nonstick skillet over high heat, stirring constantly, until soft and caramelized, about 15 minutes. 
 1. Add butter and toss onions to coat. 

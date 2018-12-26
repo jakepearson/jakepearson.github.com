@@ -1,11 +1,11 @@
 ---
 layout: page
 title : Spicy Carrots
-categories: recipes
-tags : [ recipes ]
+categories: recipes, dinner, snack
 ---
 
-### Ingredients
+# Ingredients
+
 * Some carrots
 * Some jalapenos
 * Half an onion

@@ -5,9 +5,10 @@ category: recipes
 tags: [salad]
 ---
 
-### Ingredients
+# Ingredients
 
-### For vinaigrette
+## For vinaigrette
+
 * 1/4 cup soy sauce
 * 2 tablespoons seasoned rice vinegar
 * 2 tablespoons vegetable oil
@@ -16,7 +17,8 @@ tags: [salad]
 * 1 tablespoon finely grated peeled fresh ginger
 * 1 teaspoon dried hot red pepper flakes
 
-### For salad
+## For salad
+
 * 4 cups coarsely shredded cooked chicken (about 1 pound)
 * 1/2 pound Napa cabbage, cut into 1-inch pieces (3 1/2 cups)
 * 1/4 pound snow peas, cut diagonally into 1-inch pieces
@@ -24,7 +26,7 @@ tags: [salad]
 * 3 scallions, finely chopped
 * 1/2 cup chopped fresh cilantro
 
-### Preparation
+## Preparation
 
 1. Whisk together all vinaigrette ingredients.
 1. Toss salad ingredients with vinaigrette in a large bowl until combined well.

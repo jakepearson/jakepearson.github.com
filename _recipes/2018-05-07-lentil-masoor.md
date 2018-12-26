@@ -1,11 +1,12 @@
 ---
 layout: page
 title : Red Lentil Masoor
-categories: recipes
+categories: recipes, dinner
 tags : [ recipes ]
 ---
 
 # Ingredients
+
 * 1 tablespoon olive or avocado oil
 * 1 small yellow onion, diced
 * 2 cloves garlic, minced

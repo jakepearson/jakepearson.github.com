@@ -1,8 +1,7 @@
 ---
 layout: page
 title : Leek Potato and Gruyere Frittata
-categories: recipes
-tags : [ recipes ]
+categories: recipes, dinner
 ---
 
 * 3 Tbs unsalted butter

@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Double Chocolate-Peppermint Crunch Cookies
-categories: recipes
+categories: recipes, dessert
 tags : [ recipes ]
 ---
 

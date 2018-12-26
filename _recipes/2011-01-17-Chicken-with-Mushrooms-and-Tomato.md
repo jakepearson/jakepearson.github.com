@@ -1,11 +1,10 @@
 ---
 layout: page
 title : Chicken with Mushrooms and Tomato
-categories: recipes
-tags : [ recipes ]
+categories: recipes, dinner
 ---
 
-## Ingredients
+# Ingredients
 
 * 1 4-ounce boneless, skinless chicken breast
 * 1/4 teaspoon kosher salt
@@ -18,7 +17,7 @@ tags : [ recipes ]
 * 1/4 cup fresh flat-leaf parsley, chopped
 * 1/2 cup cooked brown rice (optional)
 
-## Directions
+# Directions
 
 Heat oven to 400° F.
 

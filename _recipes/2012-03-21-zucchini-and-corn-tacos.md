@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Zucchini and Corn Tacos"
-category: 
-tags: []
+category: dinner
 ---
 
-### Ingredients
+# Ingredients
+
 * 3 tablespoons vegetable oil, divided
 * 2 cups fresh white or yellow corn kernels
 * 1 cup chopped white onion
@@ -19,7 +19,8 @@ tags: []
 * 1/4 cup tomatillo (green) salsa
 * 8 teaspoons grated Monterey Jack cheese (or queso fresco)
 
-### Preparation
+# Directions
+
 1. Heat half of oil in a large skillet over high heat. 
 1. Toast corn 5 minutes, stirring; season with salt. 
 1. Remove corn; set aside. Heat remaining 1 tablespoon plus 1 1/2 teaspoons oil in skillet. 

@@ -1,8 +1,7 @@
 ---
 layout: page
 title : Grilled Chicken with Basil Dressing
-categories: recipes
-tags : [ recipes ]
+categories: recipes, dinner
 ---
 
 * 2/3 cup extra-virgin olive oil
@@ -18,6 +17,7 @@ tags : [ recipes ]
 Whisk 1/3 cup of oil, 3 tablespoons of lemon juice, fennel seeds, 3/4 teaspoon salt, and 1/2 teaspoon pepper in a heavy-duty re-sealable plastic bag. Add the chicken and seal the bag. Massage the marinade into the chicken. Refrigerate at least 30 minutes and up to 1 day, turning the chicken occasionally.
 
 # Dressing
+
 * 4/3 cups olive oil
 * 4 cups basil (lightly packed)
 * 4 tsp lemon zest

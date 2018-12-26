@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "Spicy Peanut Sauce"
-category: recipes 
+category: recipes, dinner
 tags: [sauce]
 ---
 
-### Ingredients
+# Ingredients
+
 * 3 garlic cloves, minced
 * 1/4 teaspoon dried hot red pepper flakes, or to taste
 * 1 tablespoon vegetable oil
@@ -15,7 +16,8 @@ tags: [sauce]
 * 1/2 teaspoon sugar
 * 3/4 cup water
 
-### Preparation
+# Preparation
+
 In a small saucepan cook garlic and red pepper flakes in oil over moderate heat, stirring, until garlic is golden. 
 Whisk in remaining ingredients and bring to a boil, whisking. 
 Simmer sauce, whisking, until thickened, about 1 minute. Sauce may be made 3 days ahead and chilled, covered.

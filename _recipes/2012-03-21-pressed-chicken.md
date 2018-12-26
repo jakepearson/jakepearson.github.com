@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "Pressed Chicken with Squash and Tomatoes"
-category: recipes
+category: recipes, dinner
 tags: [Entree]
 ---
 
-### Ingredients
+# Ingredients
+
 * 4 chicken breast halves with skin and bone (2 to 2 1/4 pounds)
 * 2 tablespoons extra-virgin olive oil
 * 3/4 pound yellow squash, cut into 1/2-inch pieces
@@ -13,7 +14,7 @@ tags: [Entree]
 * 2 garlic cloves, chopped
 * 3 teaspoons chopped marjoram, divided
 
-### Preparation
+# Preparation
 
 1. Pat chicken dry and season with 3/4 teaspoon salt and 1/2 teaspoon pepper. 
 1. Heat oil in a 12-inch heavy skillet over medium-high heat until it shimmers.

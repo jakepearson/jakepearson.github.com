@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Morning Glory Muffins
-categories: recipes
+categories: recipes, breakfast
 tags : [ recipes ]
 ---
 

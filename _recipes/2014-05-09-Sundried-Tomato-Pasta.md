@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Sundried Tomato Pasta
-categories: recipes
+categories: recipes, dinner
 tags : [ recipes ]
 ---
 

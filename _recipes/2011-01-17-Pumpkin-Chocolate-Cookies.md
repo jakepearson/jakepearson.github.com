@@ -1,9 +1,11 @@
 ---
 layout: page
 title : Pumpkin Chocolate Cookies
-categories: recipes
+categories: recipes, dessert
 tags : [ recipes ]
 ---
+
+# Ingredients
 
 * 1 cup pumpkin
 * 3/4 cup sugar
@@ -18,6 +20,6 @@ tags : [ recipes ]
 * 1 cup chocolate chips
 * 1 tsp vanilla
 
+# Directions
+
 Dissolve baking soda in milk; set aside.  In large bowl add pumpkin, sugar, oil and egg, stir.  Add flour, baking powder, cinnamon, salt, and baking soda mixture.  Mix well.  Stir in chocolate chips and vanilla.  Spoon onto cookie sheet.  Bake at 375 for 10-12 minutes.
-
-

@@ -1,9 +1,11 @@
 ---
 layout: page
 title : Pasta With Tomatoes and Peas
-categories: recipes
+categories: recipes, dinner
 tags : [ recipes ]
 ---
+
+# Ingredients
 
 * 1 lb linguine
 * 3 tablespoons extra-virgin olive oil
@@ -19,6 +21,8 @@ tags : [ recipes ]
 * 1 1/2 cups frozen peas, thawed
 * 1/4 cup grated parmesan cheese
 * 1/4 cup grated romano cheese
+
+# Directions
 
 1. Bring a large pot of salted water to a boil over high heat.
 1. Add the pasta and cook until tender but still firm to the bite, stirring occasionally, about 8 to 10 minutes.
