@@ -21,7 +21,7 @@ categories: recipes, dessert
 * 53	grams (1/4 cup) brown sugar, light or dark
 * Coarse sugar, for garnish (optional)
 
-Instructions
+# Instructions
 
 1. Prepare: Position an oven rack in the top third of the oven. Preheat the oven to 425°F. Lightly grease a 13x18-inch sheet pan, or line it with parchment paper. Weigh and chill the dry ingredients. Chop the crystallized ginger into pea-sized pieces.
 2. Cut the butter into 1/8-inch-thick slices and chill until use. Mix: In a medium bowl, whisk together the flour, baking powder, baking soda, and salt. Add the ground dry spices. (This can be done up to one week in advance—just keep the dry ingredients covered in the freezer until you're ready to use.) Add the cold butter and toss to coat with the dry ingredients. 
