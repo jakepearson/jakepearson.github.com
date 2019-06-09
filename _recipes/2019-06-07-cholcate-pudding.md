@@ -4,6 +4,8 @@ title : Chocolate Budino
 categories: recipes, dessert
 ---
 
+![from smitten kitten](https://live.staticflickr.com/65535/48016779152_e4a83bdd94_z.jpg)
+
 # Ingredients
 
 * 5 large egg yolks
