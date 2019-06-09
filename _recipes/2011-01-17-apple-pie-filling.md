@@ -4,7 +4,7 @@ title : Apple Pie Filling
 categories: recipes, dessert
 ---
 
-### Filling
+# Filling
 
 * 3 1/4 pounds Granny Smith apples, peeled, cored, sliced 1/4 inch thick
 * 2/3 cup sugar
@@ -12,7 +12,7 @@ categories: recipes, dessert
 * 2 teaspoons ground cinnamon
 * 2 tablespoons unsalted butter, melted
 
-### Topping
+# Topping
 
 * 1 cup all purpose flour
 * 1/2 cup sugar
@@ -21,11 +21,11 @@ categories: recipes, dessert
 * 1/2 teaspoon salt
 * 6 tablespoons chilled unsalted butter, cut into 1/2-inch cubes
 
-### For filling
+# For filling
 
 Mix all ingredients in large bowl to coat apples.
 
-### For topping
+# For topping
 
 Blend first 5 ingredients in processor. Add chilled butter cubes; using on/off turns, cut in until mixture resembles wet sand.
 
