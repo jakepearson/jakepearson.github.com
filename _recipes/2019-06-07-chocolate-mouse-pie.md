@@ -4,14 +4,14 @@ title : Chocolate Mousse Pie
 categories : recipes, dessert
 ---
 
-# Mousse
+## Mousse
 
 * 11 oz bag of chocolate chips
 * 2 tbsp sugar
 * 1 pint whipping cream
 * 3 egg whites
 
-# Crust
+## Crust
 
 * 1/2 cup butter
 * 1/2 cup sugar
