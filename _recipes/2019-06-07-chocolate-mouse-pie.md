@@ -1,6 +1,6 @@
 ---
 layout: post
-title : chocolate mousse pie
+title : Chocolate Mousse Pie
 categories : recipes, dessert
 ---
 
@@ -16,7 +16,7 @@ categories : recipes, dessert
 * 1/2 cup butter
 * 1/2 cup sugar
 * 1 1/2 cup flour
-* pinch o’ salt
+* pinch of salt
 * water
 
 # Instructions
