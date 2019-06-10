@@ -19,7 +19,7 @@ categories : recipes, dessert
 * pinch of salt
 * water
 
-## Instructions
+# Instructions
 
 ## Make the mousse
 
