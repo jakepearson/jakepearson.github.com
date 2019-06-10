@@ -17,7 +17,7 @@ categories : recipes, dessert
 * 1/2 cup sugar
 * 1 1/2 cup flour
 * pinch of salt
-* water
+* Water
 
 # Instructions
 
