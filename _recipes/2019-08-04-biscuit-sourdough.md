@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biscuits
+title: Biscuits (Sourdough)
 categories: recipes, bread
 ---
 
