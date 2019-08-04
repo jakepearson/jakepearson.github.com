@@ -4,7 +4,7 @@ title: Biscuits (Sourdough)
 categories: recipes, bread
 ---
 
-![Yum!](/assets/images/biscuit.jpg)
+![Yum!](/assets/images/biscuits.jpg)
 
 
 # Ingredients
