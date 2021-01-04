@@ -6,8 +6,8 @@ categories : recipes, breakfast
 
 # Rose's Mom's Recipe for delicious coffee cake
 
-![Front](assets/images/coffee-cake-front.jpg)
-![Back](assets/images/coffee-cake-back.jpg)
+![Front](/assets/images/coffee-cake-front.jpg)
+![Back](/assets/images/coffee-cake-back.jpg)
 
 ## Ingredients
 
