@@ -1,7 +1,7 @@
 ---
 layout: post
-title : Benihana Ginger Sauce
-categories : recipes, dinner
+title : Nina's Coffee Cake
+categories : recipes, breakfast
 ---
 
 # Rose's Mom's Recipe for delicious coffee cake
