@@ -1,6 +1,6 @@
 ---
 layout: page
-title : sheet pan chow mein
+title : Sheet Pan Chow Mein
 categories: recipes
 ---
 
