@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Green Shakshuka With Avocado and Lime
+title : Winter Squash Soup with Gruyere Croutons
 categories: recipes
 ---
 
