@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Crispy Rice and Egg Bowl with Ginger-Scallion Vinaigrette
+title: Salad Nicoise
 categories: recipes
 ---
 
