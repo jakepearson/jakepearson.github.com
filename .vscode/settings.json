@@ -8,7 +8,7 @@
     "_site": true,
     ".sass-cache": true
   },
-  "editor.wordWrap": true,
+  "editor.wordWrap": "on",
   "workbench.colorCustomizations": {
     "activityBar.activeBackground": "#afe385",
     "activityBar.activeBorder": "#4a88d5",
