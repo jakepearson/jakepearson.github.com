@@ -3,7 +3,7 @@ layout: post
 title : Kale Radicchio Salad with Farro
 tags: 
   - entree
-  - soup
+  - salad
 ---
 
 ## Salad
