@@ -14,7 +14,8 @@ tags:
 - 1 recipe lemon miso dressing (below)
 - 1 large bunch kale, finely chopped, stems removed
 - 1 small head radicchio, quartered, cored, and cut crosswise into thin strips
-- 1 cup grated Parmesan cheese 1 cup chopped toasted walnuts
+- 1 cup grated Parmesan cheese
+- 1 cup chopped toasted walnuts
 
 ### Directions
 
