@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Easy Green Chicken Chili
+title: Green Chicken Chili
 tags:
   - entree
 ---
