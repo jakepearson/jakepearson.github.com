@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roasted Butternut Squash, Kale, and Lentil Salad
+title: Baked Kale Salad with Apple Cider Vinaigrette & Griddled Goat Cheese
 tags:
   - entree
 ---
