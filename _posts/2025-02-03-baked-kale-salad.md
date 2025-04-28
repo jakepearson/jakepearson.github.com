@@ -14,7 +14,7 @@ tags:
 - 1/2 teaspoon freshly ground black pepper
 - 1 teaspoon Diamond Crystal kosher salt
 - Extra-virgin olive oil
-- 1 cup black lentils
+- 1/2 cup black lentils
 - 1/2 cup slivered almonds (2 ounces / 56 grams)
 - 1 cup fresh sage leaves (1 ounce / 28 grams)
 - 1/4 cup apple cider vinegar
