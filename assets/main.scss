@@ -37,3 +37,113 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+// Dark mode support
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #1a1a1a;
+    --text-color: #e0e0e0;
+    --link-color: #6bb6ff;
+    --link-hover-color: #4fa3e8;
+    --border-color: #333;
+    --code-bg: #2d2d2d;
+    --blockquote-bg: #2a2a2a;
+    --table-border: #444;
+    --header-bg: #0f0f0f;
+    --footer-bg: #0f0f0f;
+  }
+
+  body {
+    background-color: var(--bg-color) !important;
+    color: var(--text-color) !important;
+  }
+
+  .site-header {
+    background-color: var(--header-bg) !important;
+    border-bottom: 1px solid var(--border-color) !important;
+  }
+
+  .site-footer {
+    background-color: var(--footer-bg) !important;
+    border-top: 1px solid var(--border-color) !important;
+  }
+
+  .site-title,
+  .site-nav .page-link {
+    color: var(--text-color) !important;
+  }
+
+  .site-nav .page-link:hover {
+    color: var(--link-hover-color) !important;
+  }
+
+  a {
+    color: var(--link-color) !important;
+  }
+
+  a:hover {
+    color: var(--link-hover-color) !important;
+  }
+
+  .post-title,
+  .post-content h1,
+  .post-content h2,
+  .post-content h3,
+  .post-content h4,
+  .post-content h5,
+  .post-content h6 {
+    color: var(--text-color) !important;
+  }
+
+  .post-meta {
+    color: #999 !important;
+  }
+
+  pre,
+  code {
+    background-color: var(--code-bg) !important;
+    color: var(--text-color) !important;
+    border: 1px solid var(--border-color) !important;
+  }
+
+  blockquote {
+    background-color: var(--blockquote-bg) !important;
+    border-left: 4px solid var(--border-color) !important;
+    color: var(--text-color) !important;
+  }
+
+  table {
+    border: 1px solid var(--table-border) !important;
+  }
+
+  th,
+  td {
+    border: 1px solid var(--table-border) !important;
+    background-color: transparent !important;
+    color: var(--text-color) !important;
+  }
+
+  th {
+    background-color: var(--code-bg) !important;
+  }
+
+  .wrapper {
+    background-color: transparent !important;
+  }
+
+  // Recipe-specific styling for better readability in dark mode
+  .post-content {
+    ul, ol {
+      li {
+        color: var(--text-color) !important;
+      }
+    }
+  }
+
+  // Ensure good contrast for recipe ingredients and directions
+  .post-content h3 {
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+  }
+}
