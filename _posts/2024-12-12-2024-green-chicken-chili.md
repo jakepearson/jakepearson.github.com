@@ -9,6 +9,7 @@ tags:
 
 - 2 tablespoons olive oil
 - 1 large yellow onion, diced
+
 - 2 poblano peppers, stemmed, seeded, and diced
 - 1 jalapeño pepper, stemmed, seeded, and diced
 - 4 ounces diced green chiles
