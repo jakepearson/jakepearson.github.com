@@ -1,8 +1,5 @@
 _site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+node_modules
 .vscode/settings.json
 
 # Beads / Dolt files (added by bd init)

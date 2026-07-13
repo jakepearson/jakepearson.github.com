@@ -1,0 +1,25 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if title %}{{ title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ (description or (content | striptags | truncate(160)) or site.description) }}">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed.xml">
+</head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F9QCMHSEF0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+
+  gtag('config', 'G-F9QCMHSEF0');
+</script>
+
+<!-- Recipe Wake Lock Script -->
+<script src="/assets/js/recipe-wake-lock.js"></script>

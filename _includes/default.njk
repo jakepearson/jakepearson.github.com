@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include "head.njk" %}
+
+<body>
+
+  {% include "header.njk" %}
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content | safe }}
+    </div>
+  </main>
+
+  {% include "footer.njk" %}
+
+</body>
+
+</html>
