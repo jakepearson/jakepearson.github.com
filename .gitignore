@@ -1,8 +1,3 @@
 _site
 node_modules
 .vscode/settings.json
-
-# Beads / Dolt files (added by bd init)
-.dolt/
-*.db
-.beads-credential-key
