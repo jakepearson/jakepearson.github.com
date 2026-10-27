@@ -1,0 +1,37 @@
+{
+  "cli_version": "0.12.2",
+  "checkpoint_id": "01M5YZ1XYGZAG563J7093YJQ5J",
+  "session_id": "8e5293fa-4138-4147-a09b-4ac34ecf41ff",
+  "strategy": "manual-commit",
+  "created_at": "2026-10-27T15:18:29.550599Z",
+  "branch": "feat-mashed-potatoes",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "posts/2026-10-27-mashed-potatoes.md"
+  ],
+  "agent": "Claude Code",
+  "model": "claude-sonnet-5-5",
+  "turn_id": "6e100ffe7fb8",
+  "compact_transcript_start": 0,
+  "token_usage": {
+    "input_tokens": 12,
+    "cache_creation_tokens": 22678,
+    "cache_read_tokens": 187850,
+    "output_tokens": 1739,
+    "api_call_count": 6
+  },
+  "redaction": {
+    "replacements": 0,
+    "layers": {
+      "betterleaks": 0,
+      "connection_string": 0,
+      "credential_key": 0,
+      "credential_value": 0,
+      "credentialed_uri": 0,
+      "entropy": 0,
+      "key_context": 0,
+      "provider_token": 0,
+      "shell_stdin": 0
+    }
+  }
+}
